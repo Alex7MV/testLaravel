@@ -10,6 +10,7 @@ Config::set('app.timezone', 'America/Chicago');
 $value = config('app.timezone');
 ```
 **Получение текущей среды**
+
 Получить текущую среду с помощью метода environment объекта Application:
 ```
 $environment = $app->environment();
