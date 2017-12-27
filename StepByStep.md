@@ -41,7 +41,7 @@ DB_PASSWORD=secret
 2. Посредники Middleware: https://laravel.com/docs/5.5/middleware
 3. Контроллеры (Controllers): https://laravel.com/docs/5.5/controllers
 4. HTTP-запросы (HTTP Requests): https://laravel.com/docs/5.5/requests
-5. HTTP-ОТКЛИКИ (HTTP Responses): https://laravel.com/docs/5.5/responses
+5. HTTP-отклики (HTTP Responses): https://laravel.com/docs/5.5/responses
 6. Шаблоны (Views): https://laravel.com/docs/5.5/views
 7. Ссылки (URL Generation): https://laravel.com/docs/5.5/urls
 8. HTTP сессия (HTTP Session): https://laravel.com/docs/5.5/session
