@@ -56,5 +56,5 @@ DB_PASSWORD=secret
 1. Аутентификация (Authentication): https://laravel.com/docs/5.5/authentication
 2. Авторизация (Authorization): https://laravel.com/docs/5.5/authorization
 
-##Документация на русском: http://laravel.su/docs/5.4/installation
+## Документация на русском: http://laravel.su/docs/5.4/installation
 
